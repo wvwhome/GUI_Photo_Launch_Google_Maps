@@ -1,0 +1,7 @@
+
+Ubuntu  20.04.2
+
+
+required also    05/29/2021
+
+sudo apt-get install libqt5x11extras5
