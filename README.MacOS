@@ -15,3 +15,5 @@
 
     * If you're building Python by yourself, please rebuild your Python with `--enable-shared` (or, `--enable-framework` on Darwin)
     
+pyinstaller --version
+4.3
