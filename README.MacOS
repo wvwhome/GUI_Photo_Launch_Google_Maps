@@ -1,0 +1,17 @@
+   README.MacOS
+
+   source /Users/wvw/wvw_py_envs/pyqt_env/bin/activate
+
+   python display_map_from_photo_gps.py   works for Python 3.9.5
+
+
+   05/31/2021 
+
+   pyinstaller --onefile display_map_from_photo_gps.py 
+
+   OSError: Python library not found: libpython3.9m.dylib, .Python, libpython3.9.dylib, Python, Python3
+    This would mean your Python installation doesn't come with proper library files.
+    This usually happens by missing development package, or unsuitable build parameters of Python installation.
+
+    * If you're building Python by yourself, please rebuild your Python with `--enable-shared` (or, `--enable-framework` on Darwin)
+    
